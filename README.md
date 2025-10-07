@@ -82,10 +82,3 @@ What kind of metadata can you convey using badges?
 * [Version Badge](http://badge.fury.io/)
 * [VersionEye](https://www.versioneye.com/)
 
-# Legal
-
-All assets and code are under the [CC0 LICENSE](LICENSE.md) and in the public
-domain unless specified otherwise.
-
-The assets in `logo/` are trademarks of their respective companies and are under
-their terms and license.
